@@ -1,14 +1,14 @@
 # My-Programming-Language
 [Ruby] [RDParse]
 
-Requieres Ruby
+<em>Requieres Ruby</em>
 
 
-ruby sql.rb # Interactive Mode
+<code>ruby sql.rb # Interactive Mode</code>
 
 
-ruby sql.rb example.sql # Run A File
+<code>ruby sql.rb example.sql # Run A File</code>
 
 
 
-Check example.sql for some examples
+<em>Check example.sql for some examples</em>
